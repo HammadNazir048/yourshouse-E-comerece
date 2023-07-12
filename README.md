@@ -6,7 +6,7 @@
 
   <h2 align="center">yourshouse-E-commerce website</h2>
 
-  Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  yourshouse-E-commerce is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 </div>
 
